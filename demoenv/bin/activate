@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/pritesh/Desktop/DRF/demo_projectapi/demoenv"
+VIRTUAL_ENV="/home/pritesh/Desktop/DRF/demo_app_api/demoenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

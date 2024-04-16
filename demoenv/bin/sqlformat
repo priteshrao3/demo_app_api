@@ -1,4 +1,4 @@
-#!/home/pritesh/Desktop/DRF/demo_projectapi/demoenv/bin/python3
+#!/home/pritesh/Desktop/DRF/demo_app_api/demoenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
